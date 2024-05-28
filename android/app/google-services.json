@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611907047207",
+    "project_id": "soko-fresh-7bd01",
+    "storage_bucket": "soko-fresh-7bd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611907047207:android:8b7dfb8d617d007c18e302",
+        "android_client_info": {
+          "package_name": "com.example.soko_fresh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQgwam_A0w0KhN7iOTuTydAqN2Dpw1hdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
