@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDiWyeGsYvlTFq3gMnbufDXywq-phD03-k',
+    apiKey: 'find yours',
     appId: '1:611907047207:web:4b10da26dc23034018e302',
     messagingSenderId: '611907047207',
     projectId: 'soko-fresh-7bd01',
