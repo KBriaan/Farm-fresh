@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCQgwam_A0w0KhN7iOTuTydAqN2Dpw1hdw',
+    apiKey: 'find yours',
     appId: '1:611907047207:android:8b7dfb8d617d007c18e302',
     messagingSenderId: '611907047207',
     projectId: 'soko-fresh-7bd01',
@@ -61,8 +61,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyApT7E9A6jLaPVVs2aE1XuBycsTrmAuuzU',
-    appId: '1:611907047207:ios:9339cf9e1c80aa5218e302',
+    apiKey: 'find yours',
+    appId: 'find yours',
     messagingSenderId: '611907047207',
     projectId: 'soko-fresh-7bd01',
     storageBucket: 'soko-fresh-7bd01.appspot.com',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDiWyeGsYvlTFq3gMnbufDXywq-phD03-k',
-    appId: '1:611907047207:web:4f7995afa7cf5a5718e302',
+    apiKey: 'find yours',
+    appId: find yours',
     messagingSenderId: '611907047207',
     projectId: 'soko-fresh-7bd01',
     authDomain: 'soko-fresh-7bd01.firebaseapp.com',
